@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Quick Start
 
-* git clone https://github.com/arshealam4/node-login-signup.git
+* git clone https://github.com/arshealam4/react-login-signup
 * cd react-login-signup
 * npm install
 
